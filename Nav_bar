@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="p16.css" />
+</head>
+
+
+
+<frameset cols="20%,80%">
+
+
+
+<frame name="left" src="p17.html">
+<frame name="right" src="p18.html">
+</frameset>
+
+<body>
+
+
+
+
+
+</body>
+</html>
+
+
+<html>
+<head>
+<title>HTML NAV</title>
+<style>
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+width:200px;
+background-color:#000080;}
+
+li.a{
+display:block;
+color:#000;
+padding:8px 16px;
+text-decoration:none;
+}
+
+li.a:hover{
+background-color:#555;
+color:white;
+}
+</style>
+</head>
+<body>
+
+<table>
+
+<ul>
+  <li class="a"><a href="https://presidencyuniversity.in/" target="right">Home</a> </li>
+  <li class="a"><a href="https://presidencyuniversity.in/category/news-events/" target="right">News</a></li>
+  <li class="a"><a href="https://presidencyuniversity.in/contact-us/" target="right">Contact</a></li>
+  <li class="a"><a href="https://presidencyuniversity.in/about-us/overview/" target="right">About</a></li>
+</ul> 
+
+</table>
+
+
+</body>
